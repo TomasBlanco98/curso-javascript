@@ -1,0 +1,11 @@
+#contenido {
+    padding: 2rem;
+}
+#contenido #titulo {
+    margin-bottom: 2rem;
+}
+#contenido .lista {
+    margin-top: 2rem;
+    list-style-position: inside;
+    background-color: tomato;
+}
